@@ -5,7 +5,8 @@ Similar to SPOD (Towne et al. 2018), SAMMs can obtain the dynamically important 
 
 SAMM includes two variants, first one is 'SAMM-SPOD' and the other one is 'SAMM-RR'. 'SAMM-SPOD' combines spectral-LSE and SPOD, while 'SAMM-RR' is based on the conditioned analysis that provides the rank-1 approximation of the system input. Both of the methods give the same dominant modes associated with a particular frequency.
 
-The sample data given here is downsampled from the original data due to the file size limitaion. Only a portion of the PIV snapshots and two out of ten Kulite sensors are given. The test code gives the mode shapes of the v-component of a cavity flow at Mach 0.6 for the first four Rossiter mode frequencies. 
+The sample data given here are downsampled from the original data due to the file size limitaion. Only a portion of the PIV snapshots and two out of ten Kulite sensors are given. The test code gives the mode shapes of the v-component of a cavity flow at Mach 0.6 for the first four Rossiter frequencies. 
+
 # Files
 | File        | Description     | 
 | ------------- |:-------------:| 
