@@ -34,6 +34,6 @@ specify method 'RR' (default) or 'SPOD'
 This retunrs POD modes for both SAMM-RR and SAMM-SPOD methods
 
 # Reference
-Yang Zhang, Louis N. Cattafesta III, Lawrence Ukeiley, *Spectral Analysis Modal Methods (SAMMs) using Non-Time-Resolved PIV*, J. of Experiments in Fluids, 2020. (accepted)
+Zhang, Y., Cattafesta, L.N. & Ukeiley, L. Spectral analysis modal methods (SAMMs) using non-time-resolved PIV. Exp Fluids 61, 226 (2020). https://doi.org/10.1007/s00348-020-03057-8
 
 
